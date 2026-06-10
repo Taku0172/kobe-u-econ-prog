@@ -14,8 +14,10 @@ print(round(42.4)) #最も近い整数に丸める
 
 print(abs(-42)) #絶対値を返す
 
-print("it's a small")
+print("it's a small") #ダブルクォートで囲むと、シングルクォートを文字として使える
 
-print("Well, ")
+print("Well, ") #空白も文字として使用可能
 
-print("Well, " + "it's a small" + "world.")
+print("Well, " + "it's a small " + "world.") #"+"は文字列の連結として作用
+
+print("spam, " * 4) #"*"は文字列の繰り返しに作用
