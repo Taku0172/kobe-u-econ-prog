@@ -17,6 +17,10 @@
 - データの前処理
 - 可視化の練習
 
+## 参考教材
+- Allen B. Downey, *Think Python, 3rd Edition*
+- Kevin P. Murphy, *Probabilistic Machine Learning: An Introduction*
+
 ## 工夫した点
 単に既存ライブラリを使うだけでなく、回帰分析や勾配降下法などの処理を自分で関数として実装し、アルゴリズムの内部構造を理解することを重視しました。
 
