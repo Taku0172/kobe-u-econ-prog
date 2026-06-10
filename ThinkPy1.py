@@ -21,3 +21,12 @@ print("Well, ") #空白も文字として使用可能
 print("Well, " + "it's a small " + "world.") #"+"は文字列の連結として作用
 
 print("spam, " * 4) #"*"は文字列の繰り返しに作用
+
+print(len("spam")) #文字列の長さを返す
+
+print(type(2)) #整数の型は"int"
+
+print(type(42.0)) #浮動小数点の型は"float"
+
+print(type("Hello, World!")) #文字列の型はstr
+
