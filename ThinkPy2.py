@@ -15,6 +15,7 @@ print(math.pi) #円周率を取り出す
 
 print(math.sqrt(25)) #平方根を計算
 
+print("The value of pi is approximately", math.pi) #値どうしの間にスペースを自動で入れる
 
 
 
